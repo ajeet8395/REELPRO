@@ -12,4 +12,6 @@ pnpm dev
 bun dev
 ```
 
+## FOLDERS
 
+1. lib: for database
